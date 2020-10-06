@@ -11,8 +11,7 @@ include_once 'includes/dbh.inc.php';
   <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
   <title>Enter Report</title>
 </head>
-
-
+<!-- This is my product -->
 <body>
 
 <nav class="navabar">
